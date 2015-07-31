@@ -1,0 +1,9 @@
+{
+  "name": "zslabs",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "uikit": "uikit/uikit#2.20.3",
+    "svg4everybody": "*"
+  }
+}

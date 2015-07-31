@@ -1,0 +1,15 @@
+# Permalinks
+permalink:        articles/:title
+relative_permalinks: true
+
+# Setup
+exclude:          ['bower_components', 'node_modules']
+title:            Riley Huggins
+tagline:          Personal site of Riley Huggins - Testing from zslabs.com
+url:              http://rileyhuggins.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Riley Huggins
+  url:            https://twitter.com/rileychuggins
+  email:          riley.huggins@yahoo.com
